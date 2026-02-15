@@ -3,7 +3,7 @@
 A **console-based Hospital Management System** developed using **Core Java**, **JDBC**, and **MySQL**.
 This project demonstrates Object-Oriented Programming (OOP) concepts along with database connectivity to manage patients, doctors, and appointments efficiently.
 
----
+
 
 ##  Project Overview
 
@@ -22,7 +22,7 @@ This project is ideal for beginners learning:
 * Database CRUD operations
 * Layered project structure
 
----
+
 
 ##  Features
 
@@ -35,7 +35,7 @@ This project is ideal for beginners learning:
 - MySQL Database Integration
 - Auto-generated database IDs
 
----
+
 
 ##  Tech Stack
 
@@ -47,7 +47,7 @@ This project is ideal for beginners learning:
 | OOP Concepts  | Class Design & Relationships |
 | Java Time API | Appointment Date Handling    |
 
----
+
 
 ##  Project Structure
 
@@ -168,7 +168,7 @@ Open project using:
 * IntelliJ IDEA
 * VS Code (Java Extensions)
 
----
+
 
 ### Step 3: Add MySQL Connector
 
@@ -178,7 +178,7 @@ Download MySQL JDBC Driver:
 
 Add the `.jar` file to project build path.
 
----
+
 
 ### Step 4: Run Application
 
@@ -217,7 +217,7 @@ Execution → HospitalManagement.java
 * ArrayList Collection
 * Exception Handling
 
----
+
 
 ##  Sample Workflow
 
@@ -228,7 +228,7 @@ Execution → HospitalManagement.java
 
 All records are stored permanently in MySQL database.
 
----
+
 
 ##  Future Improvements
 
@@ -239,7 +239,7 @@ All records are stored permanently in MySQL database.
 * Appointment conflict checking
 * REST API using Spring Boot
 
----
+
 
 ##  Author
 
@@ -248,7 +248,7 @@ All records are stored permanently in MySQL database.
 * Java Developer
 
 
----
+
 
 ##  Support
 
