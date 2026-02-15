@@ -68,7 +68,22 @@ HospitalManagementSystem
 └── README.md
 ```
 
----
+## Class Diagram 
+<img width="616" height="977" alt="image" src="https://github.com/user-attachments/assets/360031ba-139c-47e2-9c17-b8390ffcb812" />
+
+## Use Case Diagram
+<img width="1066" height="241" alt="image" src="https://github.com/user-attachments/assets/85523ba0-2b13-48f4-95ab-18a9b0359c9d" />
+
+## Sequence Diagram (Schedule Appointment)
+<img width="828" height="509" alt="image" src="https://github.com/user-attachments/assets/69dd8f8f-02cd-490a-b35f-7a15b6fb9333" />
+
+## Database ER Diagram
+<img width="352" height="336" alt="image" src="https://github.com/user-attachments/assets/32e42fbb-4ceb-4942-b3e1-4aa937e42cde" />
+
+
+
+
+
 
 ##  Database Setup
 
